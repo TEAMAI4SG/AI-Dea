@@ -1,0 +1,4 @@
+openai
+streamlit as st
+PyPDF2
+docx
